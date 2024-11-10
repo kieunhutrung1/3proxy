@@ -33,3 +33,13 @@ curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-p
 Lấy thông tin tài khoản tại đường dẫn /home/cloudfly. Mở file proxy.txt để lấy các thông tin đăng nhập.
 
 Tải phần mềm winscp [tại đây](https://winscp.net/eng/download.php), nhập thông tin máy chủ vào và làm theo các bước như hình ảnh dưới đây :
+![image](https://github.com/user-attachments/assets/829c1670-2853-4b22-a7c6-c016c4df8ee4)
+- Tiếp theo Click vào thư mục Home
+![image](https://github.com/user-attachments/assets/a9060d4c-7538-49ac-8c62-00a31c0652e1)
+![image](https://github.com/user-attachments/assets/d90f56b1-00e3-4415-8e78-dc6e81a58d01)
+![image](https://github.com/user-attachments/assets/d600bd41-dee8-4d2f-b914-e5d81f084ed0)
+![image](https://github.com/user-attachments/assets/069ca605-48e1-4dc6-80b2-a88631f479ee)
+
+
+
+

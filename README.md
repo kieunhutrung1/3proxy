@@ -19,13 +19,17 @@ Nếu ping trả về gói tin thì cấu hình IPv6 đã thành công và chuy�
 ## Bước 2. Cài đặt proxy vào máy chủ với Range /112 như sau
 
 Trường hợp Proxy có Username và Password  khác nhau
+
 curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-password.sh && chmod +x ipv6-with-port-password.sh && bash ipv6-with-port-password.sh
 
 Trường hợp Proxy có Username và Password giống nhau
+
 curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-some-username-password.sh && chmod +x ipv6-with-port-same-username-password.sh && bash ipv6-with-port-same-username-password.sh
 
-  Trường hợp Proxy không có Username và Password
+Trường hợp Proxy không có Username và Password
+
 curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-none-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
+
 ![image](https://github.com/user-attachments/assets/13a69a22-86c7-46d4-b969-e0c2666f2d6e)
 
 

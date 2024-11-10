@@ -18,12 +18,18 @@ Nếu ping trả về gói tin thì cấu hình IPv6 đã thành công và chuy�
 
 ## Bước 2. Cài đặt proxy vào máy chủ với Range /112 như sau
 
+Trường hợp Proxy có Username và Password  khác nhau
 curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-password.sh && chmod +x ipv6-with-port-password.sh && bash ipv6-with-port-password.sh
+
+Trường hợp Proxy có Username và Password giống nhau
+curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-some-username-password.sh && chmod +x ipv6-with-port-same-username-password.sh && bash ipv6-with-port-same-username-password.sh
+
+  Trường hợp Proxy không có Username và Password
+curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-none-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
 
 
 ## Bước 3: Lấy thông tin tài khoản
 
 Lấy thông tin tài khoản tại đường dẫn /home/cloudfly. Mở file proxy.txt để lấy các thông tin đăng nhập.
 
-Để cài đặt Proxy không cần username và password thì thay lệnh ở bước 2 thành lệnh dưới
-curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-none-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
+Tải phần mềm winscp [tại đây](https://winscp.net/eng/download.php), nhập thông tin máy chủ vào và làm theo các bước như hình ảnh dưới đây :

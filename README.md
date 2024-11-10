@@ -24,7 +24,7 @@ curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-p
 
 Trường hợp Proxy có Username và Password giống nhau
 
-curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-some-username-password.sh && chmod +x ipv6-with-port-same-username-password.sh && bash ipv6-with-port-same-username-password.sh
+curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-same-username-password.sh && chmod +x ipv6-with-port-same-username-password.sh && bash ipv6-with-port-same-username-password.sh
 
 Trường hợp Proxy không có Username và Password
 

@@ -26,6 +26,7 @@ curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-p
 
   Trường hợp Proxy không có Username và Password
 curl -sO https://raw.githubusercontent.com/kieunhutrung1/3proxy/main/ipv6-with-port-none-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
+![image](https://github.com/user-attachments/assets/13a69a22-86c7-46d4-b969-e0c2666f2d6e)
 
 
 ## Bước 3: Lấy thông tin tài khoản
@@ -34,11 +35,18 @@ Lấy thông tin tài khoản tại đường dẫn /home/cloudfly. Mở file pr
 
 Tải phần mềm winscp [tại đây](https://winscp.net/eng/download.php), nhập thông tin máy chủ vào và làm theo các bước như hình ảnh dưới đây :
 ![image](https://github.com/user-attachments/assets/829c1670-2853-4b22-a7c6-c016c4df8ee4)
-- Tiếp theo Click vào thư mục Home
-![image](https://github.com/user-attachments/assets/a9060d4c-7538-49ac-8c62-00a31c0652e1)
-![image](https://github.com/user-attachments/assets/d90f56b1-00e3-4415-8e78-dc6e81a58d01)
-![image](https://github.com/user-attachments/assets/d600bd41-dee8-4d2f-b914-e5d81f084ed0)
-![image](https://github.com/user-attachments/assets/069ca605-48e1-4dc6-80b2-a88631f479ee)
+Tiếp theo Click vào thư mục Home
+![image](https://github.com/user-attachments/assets/d16de860-346a-438b-af90-62a8005c22d5)
+![image](https://github.com/user-attachments/assets/f11c46fc-9aa4-463d-8887-b40434423dc3)
+![image](https://github.com/user-attachments/assets/cd8fa6df-d486-496c-9371-762b0aaa8da4)
+![image](https://github.com/user-attachments/assets/110b0642-e2b5-43f6-bade-912073818ec2)
+![image](https://github.com/user-attachments/assets/9069946c-207f-412a-8b2f-421717bdb4ce)
+
+
+
+
+
+
 
 
 
